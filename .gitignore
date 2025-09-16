@@ -1,0 +1,10 @@
+/vendor/
+/node_modules/
+/.env
+/storage/*.key
+/storage/app/public
+/storage/framework/cache/data
+/storage/logs
+/storage/framework/sessions
+/public/storage
+
