@@ -1,4 +1,4 @@
-name: laravel-test
+name: laravel-starter
 
 services:
   nginx:
